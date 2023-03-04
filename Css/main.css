@@ -1,0 +1,165 @@
+*
+{
+    padding: 0;
+    margin: 0;
+
+    box-sizing: border-box;
+}
+body
+{
+    background-color: black;
+}
+.StartHome
+{
+    background-image: url("../Images/Netflix\ Background.png");
+
+    display: flexbox;
+
+    width: auto;
+    height: auto;
+    align-items: center;
+}
+.NetflixLogo
+{
+    width: auto;
+    height: auto;
+}
+.Oturum
+{
+    width: auto;
+    height: auto;
+
+    border: 1px solid red;
+    border-radius: 5px;
+    background-color: red;
+    
+    color: white;
+    padding: 10px;
+    margin: 45px;
+
+    float: right;
+}
+.Language
+{
+    width: auto;
+    height: auto;
+    
+    border: 1px solid white;
+    border-radius: 5px;
+
+    color: white;
+    padding: 10px;
+    padding-right: 25px;
+    padding-left: 25px;
+    margin-top: 45px;
+    margin-bottom: 45px;
+    margin-left: 45px;
+
+    float: right;
+}
+.centerText
+{
+    margin-top: 70px;
+    font-family: 'Inter';
+    text-align: center;
+    align-items: center;
+
+
+    font-size: 64px;
+    color: white;
+
+}
+.centerText2
+{
+    font-family: 'Inter';
+    text-align: center;
+    align-items: center;
+
+    font-size: 32px;
+    color: white;
+    margin-top: 15px;
+}
+.centerText3
+{
+    font-family: 'Inter';
+    text-align: center;
+    align-items: center;
+
+    color: white;
+    
+    margin-top: 15px;
+
+    font-size: 20px;
+}
+.inputBox
+{
+    margin-top: 25px;
+    text-align: center;
+}
+.inputbox
+{
+    width: 500px;
+    border: 5px;
+    padding: 15px;
+    font-size: 15px;
+}
+.button
+{
+    margin: 0;
+    padding: 0;
+    padding: 15px;
+    border-color: red;
+    border-radius: 5px;
+    background-color: red;
+    color: white;
+    font-size: 15px;
+}
+.line
+{
+    margin-top: 250px;
+}
+.watchTV
+{
+    text-align: center;
+    width: auto;
+    height: auto;
+}
+.tvLine
+{
+    padding-top: 55px;
+}
+.phone
+{
+    text-align: center;
+    width: auto;
+    height: auto;
+}
+.every
+{
+    padding-top: 50px;
+    text-align: center;
+    width: auto;
+    height: auto;
+}
+.kids
+{
+    padding-top: 50px;
+    text-align: center;
+    width: auto;
+    height: auto;
+}
+.sss
+{
+    padding-top: 50px;
+    text-align: center;
+    width: auto;
+    height: auto;
+}
+.bar
+{
+    padding-top: 150px;
+    text-align: center;
+    width: auto;
+    height: auto;
+    padding-bottom: 150px;
+}
